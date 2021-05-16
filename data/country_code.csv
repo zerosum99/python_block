@@ -1,0 +1,245 @@
+나라 이름,숫자,alpha-3,alpha-2
+가나,288,GHA,GH
+가봉,266,GAB,GA
+가이아나,328,GUY,GY
+감비아,270,GMB,GM
+건지 섬,831,GGY,GG
+과들루프,312,GLP,GP
+과테말라,320,GTM,GT
+괌,316,GUM,GU
+그레나다,308,GRD,GD
+조지아,268,GEO,GE
+그리스,300,GRE,GR
+그린란드,304,GRL,GL
+기니,324,GIN,GN
+기니비사우,624,GNB,GW
+나미비아,516,NAM,NA
+나우루,520,NRU,NR
+나이지리아,566,NGA,NG
+남극,10,ATA,AQ
+남아프리카 공화국,710,ZAF,ZA
+네덜란드,528,NED,NL
+네덜란드령 안틸레스,530,ANT,AN
+네팔,524,NPL,NP
+노르웨이,578,NOR,NO
+노퍽 섬,574,NFK,NF
+누벨칼레도니,540,NCL,NC
+뉴질랜드,554,NZL,NZ
+니우에,570,NIU,NU
+니제르,562,NER,NE
+니카라과,558,NIC,NI
+대한민국,410,KOR,KR
+덴마크,208,DNK,DK
+도미니카,212,DMA,DM
+도미니카 공화국,214,DOM,DO
+독일,276,GER,DE
+동티모르,626,TLS,TL
+라오스,418,LAO,LA
+라이베리아,430,LBR,LR
+라트비아,428,LAT,LV
+러시아,643,RUS,RU
+레바논,422,LBN,LB
+레소토,426,LSO,LS
+레위니옹,638,REU,RE
+루마니아,642,ROU,RO
+룩셈부르크,442,LUX,LU
+르완다,646,RWA,RW
+리비아,434,LBY,LY
+리투아니아,440,LTU,LT
+리히텐슈타인,438,LIE,LI
+마다가스카르,450,MDG,MG
+마르티니크,474,MTQ,MQ
+마셜 제도,584,MHL,MH
+마요트,175,MYT,YT
+마카오,446,MAC,MO
+마케도니아 공화국,807,MKD,MK
+말라위,454,MWI,MW
+말레이시아,458,MAS,MY
+말리,466,MLI,ML
+맨 섬,833,IMN,IM
+멕시코,484,MEX,MX
+모나코,492,MCO,MC
+모로코,504,MAR,MA
+모리셔스,480,MUS,MU
+모리타니,478,MRT,MR
+모잠비크,508,MOZ,MZ
+몬테네그로,499,MNE,ME
+몬트세랫,500,MSR,MS
+몰도바,498,MDA,MD
+몰디브,462,MDV,MV
+몰타,470,MLT,MT
+몽골,496,MGL,MN
+미국,840,USA,US
+미국령 군소 제도,581,UMI,UM
+미국령 버진아일랜드,850,VIR,VI
+미얀마,104,MMR,MM
+미크로네시아 연방,583,FSM,FM
+바누아투,548,VUT,VU
+바레인,48,BHR,BH
+바베이도스,52,BRB,BB
+바티칸 시국,336,VAT,VA
+바하마,44,BHS,BS
+방글라데시,50,BGD,BD
+버뮤다,60,BMU,BM
+베냉,204,BEN,BJ
+베네수엘라,862,VEN,VE
+베트남,704,VIE,VN
+벨기에,56,BEL,BE
+벨라루스,112,BLR,BY
+벨리즈,84,BLZ,BZ
+보스니아 헤르체고비나,70,BIH,BA
+보츠와나,72,BWA,BW
+볼리비아,68,BOL,BO
+부룬디,108,BDI,BI
+부르키나파소,854,BFA,BF
+부베 섬,74,BVT,BV
+부탄,64,BTN,BT
+북마리아나 제도,580,MNP,MP
+불가리아,100,BGR,BG
+브라질,76,BRA,BR
+브루나이,96,BRN,BN
+사모아,882,WSM,WS
+사우디아라비아,682,KSA,SA
+사우스조지아 사우스샌드위치 제도,239,SGS,GS
+산마리노,674,SMR,SM
+상투메 프린시페,678,STP,ST
+생피에르 미클롱,666,SPM,PM
+서사하라,732,ESH,EH
+세네갈,686,SEN,SN
+세르비아,688,SRB,RS
+세이셸,690,SYC,SC
+세인트루시아,662,LCA,LC
+세인트빈센트 그레나딘,670,VCT,VC
+세인트키츠 네비스,659,KNA,KN
+세인트헬레나,654,SHN,SH
+소말리아,706,SOM,SO
+솔로몬 제도,90,SLB,SB
+수단,736,SDN,SD
+수리남,740,SUR,SR
+스리랑카,144,LKA,LK
+스발바르 얀마옌,744,SJM,SJ
+스와질란드,748,SWZ,SZ
+스웨덴,752,SWE,SE
+스위스,756,CHE,CH
+스페인,724,ESP,ES
+슬로바키아,703,SVK,SK
+슬로베니아,705,SVN,SI
+시리아,760,SYR,SY
+시에라리온,694,SLE,SL
+싱가포르,702,SGP,SG
+아랍에미리트,784,UAE,AE
+아루바,533,ABW,AW
+아르메니아,51,ARM,AM
+아르헨티나,32,ARG,AR
+아메리칸사모아,16,ASM,AS
+아이슬란드,352,ISL,IS
+아이티,332,HTI,HT
+아일랜드,372,IRL,IE
+아제르바이잔,31,AZE,AZ
+아프가니스탄,4,AFG,AF
+안도라,20,AND,AD
+알바니아,8,ALB,AL
+알제리,12,DZA,DZ
+앙골라,24,AGO,AO
+앤티가 바부다,28,ATG,AG
+앵귈라,660,AIA,AI
+에리트레아,232,ERI,ER
+에스토니아,233,EST,EE
+에콰도르,218,ECU,EC
+에티오피아,231,ETH,ET
+엘살바도르,222,SLV,SV
+영국,826,GBR,GB
+영국령 버진아일랜드,92,VGB,VG
+영국령 인도양 지역,86,IOT,IO
+예멘,887,YEM,YE
+오만,512,OMN,OM
+오스트레일리아,36,AUS,AU
+오스트리아,40,AUT,AT
+온두라스,340,HND,HN
+올란드 제도,248,ALA,AX
+요르단,400,JOR,JO
+우간다,800,UGA,UG
+우루과이,858,URY,UY
+우즈베키스탄,860,UZB,UZ
+우크라이나,804,UKR,UA
+왈리스 퓌튀나,876,WLF,WF
+이라크,368,IRQ,IQ
+이란,364,IRI,IR
+이스라엘,376,ISR,IL
+이집트,818,EGY,EG
+이탈리아,380,ITA,IT
+인도네시아,360,IDN,ID
+인도,356,IND,IN
+일본,392,JPN,JP
+자메이카,388,JAM,JM
+잠비아,894,ZMB,ZM
+저지 섬,832,JEY,JE
+적도 기니,226,GNQ,GQ
+조선민주주의인민공화국,408,PRK,KP
+중앙아프리카 공화국,140,CAF,CF
+중화민국,158,TWN,TW
+중화인민공화국,156,CHN,CN
+지부티,262,DJI,DJ
+지브롤터,292,GIB,GI
+짐바브웨,716,ZWE,ZW
+차드,148,TCD,TD
+체코,203,CZE,CZ
+칠레,152,CHL,CL
+카메룬,120,CMR,CM
+카보베르데,132,CPV,CV
+카자흐스탄,398,KAZ,KZ
+카타르,634,QAT,QA
+캄보디아,116,KHM,KH
+캐나다,124,CAN,CA
+케냐,404,KEN,KE
+케이맨 제도,136,CYM,KY
+코모로,174,COM,KM
+코스타리카,188,CRI,CR
+코코스 제도,166,CCK,CC
+코트디부아르,384,CIV,CI
+콜롬비아,170,COL,CO
+콩고 공화국,178,COG,CG
+콩고 민주 공화국,180,COD,CD
+쿠바,192,CUB,CU
+쿠웨이트,414,KWT,KW
+쿡 제도,184,COK,CK
+크로아티아,191,HRV,HR
+크리스마스 섬,162,CXR,CX
+키르기스스탄,417,KGZ,KG
+키리바시,296,KIR,KI
+키프로스,196,CYP,CY
+타이,764,THA,TH
+타지키스탄,762,TJK,TJ
+탄자니아,834,TZA,TZ
+터크스 케이커스 제도,796,TCA,TC
+터키,792,TUR,TR
+토고,768,TGO,TG
+토켈라우,772,TKL,TK
+통가,776,TON,TO
+투르크메니스탄,795,TKM,TM
+투발루,798,TUV,TV
+튀니지,788,TUN,TN
+트리니다드 토바고,780,TTO,TT
+파나마,591,PAN,PA
+파라과이,600,PRY,PY
+파키스탄,586,PAK,PK
+파푸아 뉴기니,598,PNG,PG
+팔라우,585,PLW,PW
+팔레스타인,275,PSE,PS
+페로 제도,234,FRO,FO
+페루,604,PER,PE
+포르투갈,620,PRT,PT
+포클랜드 제도,238,FLK,FK
+폴란드,616,POL,PL
+푸에르토리코,630,PRI,PR
+프랑스,250,FRA,FR
+프랑스령 기아나,254,GUF,GF
+프랑스령 남부와 남극 지역,260,ATF,TF
+프랑스령 폴리네시아,258,PYF,PF
+피지,242,FJI,FJ
+핀란드,246,FIN,FI
+필리핀,608,PHL,PH
+핏케언 제도,612,PCN,PN
+허드 맥도널드 제도,334,HMD,HM
+헝가리,348,HUN,HU
+홍콩,344,HKG,HK
