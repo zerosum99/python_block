@@ -15,3 +15,7 @@ class Klass :
     def __del__(self) :
         print("객체를 삭제합니다")
         del self
+        
+if __name__ == "__main__" :
+    k = Klass("준석", 25)
+    print(k)
